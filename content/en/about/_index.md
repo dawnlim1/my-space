@@ -6,7 +6,7 @@ date : 2025-08-06
 
 ## Daoyuan Wu
 
-Email: wudaoyuanxjtu@gmail.com<br>
+Email: wu.dao@northeastern.edu<br>
 
 Born: August, 1998,Yan'an, Shaan'Xi Province<br>
 Nationality: China

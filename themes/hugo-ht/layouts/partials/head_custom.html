@@ -21,3 +21,5 @@
 {{/* Hugo 生成器版本（可选） */}}
 {{ hugo.Generator }}
 
+<!-- 加载自定义 CSS（放最后，覆盖主题） -->
+<link rel="stylesheet" href="{{ `css/custom.css` | relURL }}">
